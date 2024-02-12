@@ -1,9 +1,9 @@
 # Customer-Experience-Enhancement-through-Personalized-Recommendations-for-TechTrend-Retail
 
-Table of Contents
+## Table of Contents
 
-    Introduction
-    About Company
+- [Introduction](introduction)
+- [About Company](about-company)
     Problem Statement
     Project Objective
     Key Questions
