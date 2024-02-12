@@ -1,19 +1,18 @@
 # Customer-Experience-Enhancement-through-Personalized-Recommendations-for-TechTrend-Retail
 
 ## Table of Contents
-
-     Introduction
-     About Company
-     Problem Statement
-     Project Objective
-    Key Questions
-    Data Preparation
-        6.1 Load Datasets
-        6.2 Data Exploration
-        6.3 Data Visualization
-    Clustering Analysis
-        7.1 Elbow Method for Optimal k
-        7.2 Principal Component Analysis (PCA)
+- [Introduction](#introduction)
+- [About Company](#about-company)
+- [Problem Statement](#problem-statement)
+- [Project Objective](#project-objective)
+- [Key Questions](#key-questions)
+- [Data Preparation](#data-preparation)
+-  [6.1 Load Datasets](#6.1-load-datasets)
+-    [6.2 Data Exploration](#6.2-data-exploration)
+-    [6.3 Data Visualization](#6.3-data-visualization)
+- [Clustering Analysis](#clustering-analysis)
+- [7.1 Elbow Method for Optimal k](#7.1-elbow-method-for-optimal-k)
+-   [7.2 Principal Component Analysis (PCA)](7.2-principal-component-analysis-(PCA))
         7.3 K-Means Clustering
         7.4 Interpretations and Visualizations
     Collaborative Filtering Recommendation System
@@ -29,24 +28,26 @@
         9.5 Scalability and Performance
         9.6 Monitoring
 
-1. Introduction
+## 1. Introduction
 
 In response to the evolving landscape of customer expectations, TechTrend Retail is embarking on a strategic initiative to leverage data science for enhancing the customer experience. This project focuses on developing and implementing a personalized recommendation system, utilizing advanced data science techniques to cater to individual customer preferences across both online and offline touchpoints.
-2. About Company
+
+## 2. About Company
 
 TechTrend Retail is a leading player in the consumer electronics industry, operating both online and through a network of physical stores. With a commitment to innovation and customer satisfaction, TechTrend Retail aims to provide a seamless and personalized shopping experience for its diverse customer base.
-3. Problem Statement
+
+## 3. Problem Statement
 
 In today's competitive retail landscape, TechTrend Retail recognizes the critical importance of delivering a personalized and engaging shopping experience to its customers. The company aims to leverage data science methodologies to implement a robust recommendation system that tailors product suggestions and promotions to individual customer preferences across online and offline channels.
 
-4. Project Objective
+## 4. Project Objective
 
     Enhanced Customer Experience: Develop a personalized recommendation system to provide customers with tailored product suggestions, promotions, and content, thereby enhancing their overall shopping experience.
     Increased Engagement: Increase customer engagement by delivering relevant and timely recommendations, fostering a deeper connection between customers and TechTrend Retail.
     Conversion Rate Optimization: Improve conversion rates by leveraging data-driven insights to guide customers toward purchases aligned with their preferences and behavior.
     Iterative Optimization: Establish a continuous improvement cycle by collecting feedback, analyzing performance metrics, and iteratively optimizing the recommendation engine.
 
-5. Key Questions
+## 5. Key Questions
 
     What key segments can be found within the customer group and what are their characteristics?
     What demographic information is most relevant for segmenting customers?
@@ -58,8 +59,8 @@ In today's competitive retail landscape, TechTrend Retail recognizes the critica
     How do customer engagement metrics correlate with conversion rates and overall customer satisfaction?
     Are there leading indicators that can predict future success or challenges?
 
-6. Data Preparation
-6.1 Load Datasets
+## 6. Data Preparation
+##  6.1 Load Datasets
 
 python
 
@@ -156,7 +157,6 @@ Consider the scalability and performance of your deployment. Depending on your u
 
 Implement monitoring for your deployed model to track its performance over time. This can help you identify issues and make improvements as needed.
 
-Please include a table of contents and know that it is for my GitHub portfolio.
 Surprise Library Integration <a name="surprise-library-integration"></a>
 
 Integration of the Surprise library for building recommendation models.
