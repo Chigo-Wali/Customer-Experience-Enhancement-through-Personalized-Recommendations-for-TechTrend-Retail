@@ -2,10 +2,10 @@
 
 ## Table of Contents
 
-- [Introduction](introduction)
-- [About Company](about-company)
-    Problem Statement
-    Project Objective
+     Introduction
+     About Company
+     Problem Statement
+     Project Objective
     Key Questions
     Data Preparation
         6.1 Load Datasets
@@ -38,6 +38,7 @@ TechTrend Retail is a leading player in the consumer electronics industry, opera
 3. Problem Statement
 
 In today's competitive retail landscape, TechTrend Retail recognizes the critical importance of delivering a personalized and engaging shopping experience to its customers. The company aims to leverage data science methodologies to implement a robust recommendation system that tailors product suggestions and promotions to individual customer preferences across online and offline channels.
+
 4. Project Objective
 
     Enhanced Customer Experience: Develop a personalized recommendation system to provide customers with tailored product suggestions, promotions, and content, thereby enhancing their overall shopping experience.
