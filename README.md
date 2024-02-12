@@ -1,20 +1,20 @@
 # Customer-Experience-Enhancement-through-Personalized-Recommendations-for-TechTrend-Retail
 
 ## Table of Contents
-- [Introduction](#introduction)
-- [About Company](#about-company)
-- [Problem Statement](#problem-statement)
-- [Project Objective](#project-objective)
-- [Key Questions](#key-questions)
-- [Data Preparation](#data-preparation)
--  [6.1 Load Datasets](#6.1-load-datasets)
+- [1. Introduction](#1-introduction)
+- [2. About Company](#2-about-company)
+- [3. Problem Statement](#3-problem-statement)
+- [4. Project Objective](#4-project-objective)
+- [5. Key Questions](#5-key-questions)
+- [6. Data Preparation](#6-data-preparation)
+- [6.1 Load Datasets](#6.-1-load-datasets)
 -    [6.2 Data Exploration](#6.2-data-exploration)
 -    [6.3 Data Visualization](#6.3-data-visualization)
 - [Clustering Analysis](#clustering-analysis)
 - [7.1 Elbow Method for Optimal k](#7.1-elbow-method-for-optimal-k)
--   [7.2 Principal Component Analysis (PCA)](7.2-principal-component-analysis-(PCA))
-        7.3 K-Means Clustering
-        7.4 Interpretations and Visualizations
+-   [7.2 Principal Component Analysis (PCA)](#7.2-principal-component-analysis-(PCA))
+-   [7.3 K-Means Clustering](#7.3-k-means-clustering)
+-   [7.4 Interpretations and Visualizations](#7.4-Interpretations-and-visualizations)
     Collaborative Filtering Recommendation System
         8.1 Data Preprocessing for Recommendation
         8.2 Surprise Library Implementation
@@ -66,7 +66,7 @@ python
 
 # Code to load datasets
 
-6.2 Data Exploration
+## 6.2 Data Exploration
 
 python
 
